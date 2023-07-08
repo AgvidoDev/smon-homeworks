@@ -21,3 +21,8 @@ systemctl restart zabbix-server zabbix-agent apache2
 systemctl enable zabbix-server zabbix-agent apache2
 
 
+git add .
+git commit -a -m "zabbix 01"
+git push origin
+
+
