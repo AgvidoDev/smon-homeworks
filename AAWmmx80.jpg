@@ -1,0 +1,473 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Скриншот-11-07-2023 03:52:25.jpg"/>
+    <meta property="og:description" content="Снято с помощью Скриншотер.рф"/>
+    <meta content="article" property="og:type">
+    <meta name="twitter:card" content="summary_large_image"/>
+                        <meta property="og:image" content="https://skrinshoter.ru/s/110723/AAWmmx80_prev.jpg"/>
+            <meta property="twitter:image" content="https://skrinshoter.ru/s/110723/AAWmmx80_prev.jpg"/>
+            <meta property="vk:image"  content="https://skrinshoter.ru/s/110723/AAWmmx80_prev.jpg" />
+            <meta property="og:site_name" content="skrinshoter.ru"/>
+    <meta name="robots" content="noindex,nofollow"/>
+
+    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/gkaaffkabfmjaekemimgnajfboopmpom">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="/assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/assets/styles/styles.css?v=1.07" />
+    <link rel="stylesheet" type="text/css" href="/assets/styles/skrinshoter.css?v=1.50" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <title></title>
+
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script src="/assets/js/skrinshoter.js?v=1.04"></script>
+    <script type="text/javascript" src="/assets/js/playerjs.js?v=1.06"></script>
+
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lfz160mAAAAAJ6gAj_L0lgfB-f3WWqE4viiQHol"></script>
+
+    <style>
+        .copy-btn_before::before {
+            content: 'Ссылка скопирована в буфер обмена!';
+            position: absolute;
+            top: 50px;
+            left: -95px;
+            width: fit-content;
+            box-shadow: 5px 5px 15px 5px rgb(21 76 100 / 8%);
+            border-radius: 8px;
+            color: #49484D;
+            font-size: 14px;
+            white-space: nowrap;
+            font-weight: normal;
+            background-color: white;
+            padding: 5px 10px;
+            z-index: 6666;
+        }
+        #download-btn,
+        #delete-all {
+            display: grid;
+        }
+        @media (max-width: 769px) {
+            #download-btn,
+            #delete-all,
+            #copy-btn {
+                display: none;
+            }
+        }
+    </style>
+
+    <!-- Yandex.RTB -->
+    <script>window.yaContextCb=window.yaContextCb||[]</script>
+    <script src="https://yandex.ru/ads/system/context.js" async></script>
+</head>
+<body style="overflow: auto;">
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-17620704-9', 'auto');
+    ga('send', 'pageview');
+</script>
+
+<div class="gray-bg"></div>
+
+<div id="login-widget" class='widget-holder'>
+    <div class="widget-content">
+        <div class="popup">
+            <div class="popup-title">
+                Войти на сайт
+            </div>
+            <!-- <p style="margin:0;color:#49484D; text-align:center;">
+                Ещё нет аккаунта?
+                <a data-function="registration-widget">Создать</a>
+            </p> -->
+            <div class="popup-content">
+                <div class="social-login">
+                    <a class="social-login-item" data-function="authGmail">
+                        <i class="fa-brands fa-google" style="color:#ea4335;"></i>
+                        <span style="margin-right:27px;">Войти через Google</span>
+                    </a>
+                    <a class="social-login-item" data-function="authVK">
+                        <i class="fa-brands fa-vk" style="color: #0077FF;"></i>
+                        <span>Войти через Вконтакте</span>
+                    </a>
+                    <!-- <a class="social-login-item" data-function="authYandex">
+                        <i class="fa-brands fa-yandex" style="color: #fb3f1d;margin-right:2px;"></i>
+                        <span style="margin-right:21px;padding-left:4px;">Войти через Яндекс</span>
+                    </a> -->
+                </div>
+
+                <!-- <div class="divider">
+                    ИЛИ
+                </div> -->
+
+                <!-- <form action="" method="post">
+                    <div style="display:flex;gap:10px;flex-direction:column;">
+                        <div class="form-block">
+                            <label for="email">E-mail:</label>
+                            <div style="position:relative;">
+                                <input required class="input" type="text" autocomplete="email" name="email">
+                                <p style="display:none;" class="input-message-email">Пожалуйста, введи корректный адрес электронной почты</p>
+                            </div>
+                        </div>
+                        <div class="form-block">
+                            <label for="password">Пароль:</label>
+                            <div id="password-input-wrapper">
+                                <input required class="input" type="password" autocomplete="current-password" name="password" data="password-input">
+                                <p style="display:none;" class="input-message-password">Пожалуйста, используй в пароле 8 или более символов</p>
+                                <i data="show-password" class="fa fa-eye"></i>
+                            </div>  
+                        </div>
+                        <input type="hidden" name="token" data="token">
+                    </div>
+                    
+                    <div style="display: flex;gap:15px;align-items:center; justify-content:center; flex-direction:column; margin-top: 20px;">
+                        <button type="submit" name="submit" class="sidebar_button" style="font-size:14px; border-radius:8px; height:35px; padding: 10px 30px; color:white;background-color:#02A7EB;">Войти</button>
+                    </div>
+
+                    <p style="margin:0;color:#49484D; text-align:center; margin-top:20px;font-size:13px;">
+                        Забыл пароль?
+                        <a data-function="forgot-password">Восстановить</a>
+                    </p>
+                    
+                    <p class="error" style="margin:0;"></p>
+
+                </form> -->
+
+            </div>
+
+            <div class="popup-footer">
+                Я соглашаюсь с <a href="/tos" target="_blank">правилами пользования сайтом</a> и даю согласие на обработку персональных данных.
+                Сайт защищен reCAPTCHA, и к нему применяются <a href="https://policies.google.com/privacy">Политика конфиденциальности</a> и <a href="https://policies.google.com/terms">Условия обслуживания</a> Google.
+            </div>
+
+            <button type="button" class="popup-close" data-function="closeLogin" style="display:none;">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
+    </div>
+</div>
+
+<!-- <div id="forgot-password-widget" class='widget-holder'>
+    <div class="widget-content">
+        <div class="popup">
+            <div class="popup-title" style="margin-bottom:25px;">
+                Восстановить пароль
+            </div>
+            <div class="popup-content">
+                <form action="" method="post">
+                    <div style="display:flex;gap:10px;flex-direction:column;">
+                        <div class="form-block">
+                            <label for="email">E-mail:</label>
+                            <div style="position:relative;">
+                                <input required class="input" autocomplete="email" type="text" name="email">
+                                <p style="display:none;" class="input-message-email">Пожалуйста, введи корректный адрес электронной почты</p>
+                            </div>
+                        </div>
+                        <input type="hidden" name="token" data="token">
+                    </div>
+
+                    <div style="display: flex;gap:15px;align-items:center; justify-content:center; flex-direction:column; margin-top: 20px;">
+                        <button type="submit" name="submit" class="sidebar_button" style="font-size:14px; border-radius:8px; height:35px; padding: 10px 30px; color:white;background-color:#02A7EB;">Восстановить</button>
+                    </div>
+                    
+                                                    <p style="margin:0;" class="error"></p>
+                                            </form>
+            </div>
+
+            <a style="margin:0;text-align:center;display:flex;justify-content:center;gap:5px;align-items:center;margin-top:20px;" data-function="backto-login-widget">
+                <i class="fa-solid fa-angles-left"></i>
+                Назад
+            </a>
+
+            <div class="popup-footer">
+                Сайт защищен reCAPTCHA, и к нему применяются <a href="https://policies.google.com/privacy">Политика конфиденциальности</a> и <a href="https://policies.google.com/terms">Условия обслуживания</a> Google.
+            </div>
+
+            <button type="button" class="popup-close" data-function="closeForgotPassword" style="display:none;">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
+    </div>
+</div> -->
+
+<!-- <div id="registration-widget" class='widget-holder'>
+    <div class="widget-content">
+        <div class="popup">
+            <div class="popup-title">
+                Регистрация
+            </div>
+            <p style="margin:0;color:#49484D;text-align:center;">
+                Уже есть аккаунт?
+                <a data-function="login-widget">Войти</a>
+            </p>
+            <div class="popup-content">
+                <div class="social-login">
+                    <a class="social-login-item" data-function="authGmail">
+                        <i class="fa-brands fa-google" style="color:#ea4335;"></i>
+                        <span style="margin-right:27px;">Войти через Google</span>
+                    </a>
+                    <a class="social-login-item" data-function="authVK">
+                        <i class="fa-brands fa-vk" style="color: #0077FF;"></i>
+                        <span>Войти через Вконтакте</span>
+                    </a>
+                    <a class="social-login-item" data-function="authYandex">
+                        <i class="fa-brands fa-yandex" style="color: #fb3f1d;margin-right:2px;"></i>
+                        <span style="margin-right:21px;padding-left:4px;">Войти через Яндекс</span>
+                    </a>
+                </div>
+
+                <div class="divider">
+                    ИЛИ
+                </div>
+
+                <form action="" method="post">
+                    <div style="display:flex;gap:10px;flex-direction:column;">
+                        <div class="form-block">
+                            <label for="username">Имя:</label>
+                            <input required class="input" type="text" autocomplete="username" name="username">
+                        </div>
+                        <div class="form-block">
+                            <label for="email">E-mail:</label>
+                            <div style="position:relative;">
+                                <input required class="input" type="text" autocomplete="email" name="email">
+                                <p style="display:none;" class="input-message-email">Пожалуйста, введи корректный адрес электронной почты</p>
+                            </div>
+                        </div>
+                        <div class="form-block">
+                            <label for="password">Пароль:</label>
+                            <div id="password-input-wrapper">
+                                <input required class="input" type="password" autocomplete="new-password" name="password" data="password-input">
+                                <p style="display:none;" class="input-message-password">Пожалуйста, используй в пароле 8 или более символов</p>
+                                <i data="show-password" class="fa fa-eye"></i>
+                            </div>  
+                        </div>
+                        <input type="hidden" name="token" data="token">
+                    </div>
+                    
+                    <div style="display: flex;gap:15px;align-items:center; justify-content:center; flex-direction:column; margin-top: 20px;">
+                        <button type="submit" name="submit" class="sidebar_button" style="font-size:14px; border-radius:8px; height:35px; padding: 10px 30px; color:white;background-color:#02A7EB;">Создать аккаунт</button>
+                    </div>
+                    
+
+                                                <p class="error" style="margin:0;"></p>
+                                            </form>
+                
+            </div>
+
+            <div class="popup-footer" style="padding-top:25px;">
+                Я соглашаюсь с <a href="/tos" target="_blank">правилами пользования сайтом</a> и даю согласие на обработку персональных данных.
+                Сайт защищен reCAPTCHA, и к нему применяются <a href="https://policies.google.com/privacy">Политика конфиденциальности</a> и <a href="https://policies.google.com/terms">Условия обслуживания</a> Google.
+            </div>
+
+            <button type="button" class="popup-close" data-function="closeRegistration" style="display:none;">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
+    </div>
+</div> -->
+<noindex>
+    <div class="header" style="position: sticky;">
+        <div class="wrap">
+            <a href="/" class="logo"></a>
+            <div style="display: flex; align-items: center;gap:10px;">
+                <div id="header-menu" style="display: flex; gap: 10px; align-items: center;visibility:hidden;">
+                    <button class="button_history" id="copy-btn" style="position: relative;background-color: #02A7EB !important;" onclick="copyLink();">
+                        <i class="fa-solid fa-copy"></i>
+                    </button>
+                    <a class="download-link" href="" onclick="ga('send', 'event', 'Screenshot', 'Download');return true;" download="">
+                        <button class="button_history" style="position: unset;background-color: #02A7EB !important;" id="download-btn">
+                            <i class="fa-solid fa-download"></i>
+                        </button>
+                    </a>
+                    <button class="button_history" id="delete-all" style="position: unset;display: none;background-color: #02A7EB !important;" onclick="ga('send', 'event', 'My Screenshots', 'Remove');return false;">
+                        <i class="fa-solid fa-trash"></i>
+                    </button>
+                </div>
+                <a id="login-button" data-function="login" style="text-decoration: none;display: none;margin-top:0 !important; padding:0 16px;line-height:40px;" class="sidebar_button sidebar_button_pro">Войти</a>
+                <div class="loggedin-header-wrapper" style="display:none;margin-left: 20px;font-size:16px;gap:10px;cursor:pointer;" onclick="onDropdownClick();">
+                    <div class="user-logo"></div>
+                    <i id="dr-arrow" style="transition:0.2s;" class="fa-solid fa-angle-down"></i>
+                    <div class="dropdown-menu" style="cursor:default;">
+                        <div style="display: flex; gap: 15px; align-items:center;border-bottom:1px solid lightgray;padding-bottom:10px;">
+                            <div class="user-logo"></div>
+                            <p class="firstname_el" style="margin:0;">Александр</p>
+                        </div>
+                        <ul style="display:flex;flex-direction:column; gap:8px;list-style-type:none;padding:0;margin-bottom:0;margin-top:20px;">
+                            <li>
+                                <a href="/my" style="color:inherit;text-decoration:none;display: flex; gap: 15px; align-items:center;line-height:40px;margin-left:9px;">
+                                    <div class="sidebar_button__icon">
+                                        <i class="fa-solid fa-layer-group"></i>
+                                    </div>
+                                    <p style="margin:0;">История</p>
+                                </a>
+                            </li>
+                            <li id="buy-pro" style="display:none;">
+                                <a href="/pro" target="_blank" style="color:inherit;text-decoration:none;display: flex; gap: 15px; align-items:center;line-height:40px;margin-left:9px;">
+                                    <div class="sidebar_button__icon">
+                                        <i class="fa-solid fa-bolt"></i>
+                                    </div>
+
+                                    <p style="margin:0;">Купить ПРО</p>
+                                </a>
+                            </li>
+                            <li>
+                                <div onclick="logout();return false;" style=" cursor:pointer;display: flex; gap: 15px; align-items:center;line-height:40px;margin-left:9px;">
+                                    <div class="sidebar_button__icon" style="justify-content:center;">
+                                        <i class="fa-solid fa-arrow-right-from-bracket"></i>
+                                    </div>
+
+                                    <p style="margin:0;">Выйти</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="container-main">
+
+        <div style="margin-top: 10px;transform: scale(0.8);" id="yandex_rtb_R-A-1620808-1"></div>
+        <script>
+            window.yaContextCb.push(()=>{
+                Ya.Context.AdvManager.render({
+                    renderTo: "yandex_rtb_R-A-1620808-1",
+                    blockId: "R-A-1620808-1"
+                })})
+        </script>
+
+        <div class="content-box" style="display: grid;place-content: center;">
+            <img id="loader" src="/assets/loading.gif" style="display:none;"/>
+        </div>
+    </div>
+
+    <div class="delete-message">
+        <img class="delete-message__img">
+        <p style="margin:0;"></p>
+    </div>
+
+    <div id="del-warn-widget" class='widget-holder'>
+        <div class="widget-content">
+            <div class="popup" style="border-radius:15px;display:flex;justify-content:space-between;flex-direction:column;height:170px;">
+                <div id="popup-title-remove" class="popup-title" style="font-size: 16px;line-height: 1.3;margin-top:10px;">
+                    Вы уверены, что хотите удалить файл?
+                </div>
+                <div class="popup-content" style="text-align:right;">
+                    <button class="button_history" style="background-color: lightgray !important;padding:8px 15px;" onclick="deleteItem();return false;">
+                        Да
+                    </button>
+                    <button class="button_history" style="padding:8px 15px;" onclick="cancelDeleteItem();return false;">
+                        Нет
+                    </button>
+                </div>
+                <button type="button" class="popup-close" onclick="cancelDeleteItem();return false;">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+</noindex>
+
+<template id="not-found-page-content-box-template">
+    <div style="display:flex; flex-direction:column;align-items: center;">
+        <img id="tem-spinner" src="/assets/loading.gif"/>
+        <h1 style="font-size: 20px;">Файл еще не загружен или был удален</h1>
+        <form style="text-align: center;margin-top: 20px;">
+            <input type="button" onclick="ga('send', 'event', 'Screenshot', 'Reload');window.location.reload(true);" value="Обновить страницу" class="button_history" style="padding: 10px 20px;">
+        </form>
+    </div>
+</template>
+
+<template id="video-page-content-box-template">
+    <div id="video-container">
+        <div id="player"></div>
+
+        <div class="img-info">
+            <p style="margin: 5px 0;line-height: 1.3; font-weight: unset;">Загружено: <span style="font-weight: 600;"></span></p>
+            <div style="display: flex;gap: 10px;justify-content: center; margin-top: 20px;">
+                <button class="button_history" id="copy-mobile" style="position: unset;" onclick="copyLink();">
+                    <i class="fa-solid fa-copy"></i>
+                </button>
+                <button class="button_history" id="delete-mobile" style="position: unset;display: none;" onclick="ga('send', 'event', 'My Screenshots', 'Remove');return false;">
+                    <i class="fa-solid fa-trash"></i>
+                </button>
+            </div>
+        </div>
+
+        <div style="margin-top: 50px;" id="mc-container"></div>
+        <script type="text/javascript">
+            cackle_widget = window.cackle_widget || [];
+            cackle_widget.push({widget: 'Comment', id: 80412});
+            (function() {
+                var mc = document.createElement('script');
+                mc.type = 'text/javascript';
+                mc.async = true;
+                mc.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cackle.me/widget.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+            })();
+        </script>
+        <a id="mc-link" href="http://cackle.me">Comments system <b style="color:#4FA3DA">Cackl</b><b style="color:#F65077">e</b></a>
+    </div>
+</template>
+
+<template id="screenshot-page-content-box-template">
+    <img id="screenshot-image" src="" style="display:block; max-height:64vh; border-radius: 4px;-webkit-box-shadow: -1px 2px 25px -1px rgba(0,0,0,0.61);box-shadow: -1px 2px 25px -1px rgba(0,0,0,0.61);margin:0 auto;"/>
+
+    <div class="img-info">
+        <p style="margin: 5px 0;line-height: 1.3; font-weight: unset;">Загружен: <span style="font-weight: 600;"></span></p>
+        <div style="display: flex;gap: 10px;justify-content: center; margin-top: 20px;">
+            <button class="button_history" id="copy-mobile" style="position: unset;" onclick="copyLink();">
+                <i class="fa-solid fa-copy"></i>
+            </button>
+            <button class="button_history" id="delete-mobile" style="position: unset;display:none;" onclick="ga('send', 'event', 'My Screenshots', 'Remove');return false;">
+                <i class="fa-solid fa-trash"></i>
+            </button>
+        </div>
+    </div>
+</template>
+
+<template id="file-page-content-box-template">
+    <div style="position:relative;text-align:center;width:150px;">
+        <img src="/assets/images/file-icon.svg" class="file-icon"/>
+        <div id="file-exten" style="position:absolute;top:100px;left:50%;transform:translate(-50%,-50%);color: #3C4043;font-size: 36px;font-family: Roboto-Medium,Roboto,arial,sans-serif;"></div>
+    </div>
+
+    <div class="img-info" style="padding-top:unset;text-align:left;font-size:16px;">
+        <p style="margin: 12px 0;line-height: 1.3; font-weight: unset;">Имя: <span id="file-name" style="font-weight: 600;"></span></p>
+        <p style="margin: 12px 0;line-height: 1.3; font-weight: unset;">Размер: <span id="size" style="font-weight: 600;"></span></p>
+        <p style="margin: 12px 0;line-height: 1.3; font-weight: unset;">Загружен: <span id="created" style="font-weight: 600;"></span></p>
+        <p style="margin: 12px 0;line-height: 1.3; font-weight: unset;">Будет удалён: <span id="deleted-in" style="font-weight: 600;"></span></p>
+        <div class="file-btns">
+            <a class="download-link-file" href="" onclick="ga('send', 'event', 'Screenshot', 'Download');return true;" download="">
+                <button class="button_history" style="padding:10px 20px;position: unset; width: unset; height: unset;border-radius: 10px;font-size:20px;" id="edit-btn" >
+                    Скачать
+                </button>
+            </a>
+            <button class="button_history" id="copy-mobile" style="position: unset;" onclick="copyLink();">
+                <i class="fa-solid fa-copy"></i>
+            </button>
+            <button class="button_history" id="delete-mobile" style="position: unset;display:none;" onclick="ga('send', 'event', 'My Screenshots', 'Remove');return false;">
+                <i class="fa-solid fa-trash"></i>
+            </button>
+        </div>
+    </div>
+    </div>
+</template>
+
+<template id="file-deleted-content-box-template">
+    <div style="display:flex; flex-direction:column;align-items: center;">
+        <h1 style="font-size: 20px;">Файл успешно удален, вы можете закрыть эту страницу!</h1>
+    </div>
+</template>
+
+<script src="/assets/js/screenshoter.js?v=1.23"></script>
+<script src="/assets/js/auth.js?=1.31"></script>
+</body>
+</html>
